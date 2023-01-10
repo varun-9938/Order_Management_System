@@ -3,7 +3,9 @@ problem statment:-
 
 
           A simple Order Management System
+          
 Spring boot application with the below requirements :
+
 ● Creation of Customers
 ● Customers can create orders. For simplicity, once an order is created, thats final.
 There is no order status like created, payment done, completed etc. It is
